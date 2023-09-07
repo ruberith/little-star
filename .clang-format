@@ -1,0 +1,3 @@
+BasedOnStyle: Microsoft
+PackConstructorInitializers: Never
+PointerAlignment: Left

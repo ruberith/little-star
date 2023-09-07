@@ -1,0 +1,4 @@
+This work is based on
+"Book Pattern" (https://polyhaven.com/a/book_pattern)
+by Rob Tuytel (https://www.artstation.com/tuytel)
+licensed under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).

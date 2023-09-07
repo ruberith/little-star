@@ -1,0 +1,4 @@
+This work is based on
+"CGI Moon Kit" (https://svs.gsfc.nasa.gov/4720)
+by NASA's Scientific Visualization Studio (https://svs.gsfc.nasa.gov)
+licensed under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
